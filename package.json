@@ -1,0 +1,19 @@
+{
+  "name": "@dailynodemodule/ytdl",
+  "version": "1.0.0",
+  "description": "A project tests out ytdl",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dailynodemodule/ytdl"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Zachary Boyd <zachary@dailynodemodule.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ytdl-core": "^0.29.1"
+  }
+}
